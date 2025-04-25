@@ -1,4 +1,4 @@
-**#Zomato Analytics Dashboard**
+Project Name: Zomato Analytics Dashboard
 
 Prepared By:  Siddhant Rawat
 
