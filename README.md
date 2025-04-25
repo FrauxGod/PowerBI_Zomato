@@ -1,4 +1,4 @@
-**Zomato Analytics Dashboard**
+# Zomato Analytics Dashboard
 
 Prepared By:  Siddhant Rawat
 
