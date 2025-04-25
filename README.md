@@ -8,8 +8,9 @@ The Zomato Analytics Dashboard aims to provide insights into food delivery perfo
 It will help stakeholders identify trends, improve delivery operations, and enhance customer satisfaction.
 
 
-2. Dataset Link: https://github.com/FrauxGod/PowerBI_Zomato/blob/main/Dataset/Zomato.xlsx
-   Dashboard Screenshot:
+2. Dataset Link: "https://github.com/FrauxGod/PowerBI_Zomato/blob/main/Dataset/Zomato.xlsx" <br />
+   Dashboard Screenshot: ![Screenshot 2025-04-26 022212](https://github.com/user-attachments/assets/08b42f10-a8e7-41e9-a15d-d4223b6b6d79)
+
 
 
 3. Objectives
